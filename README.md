@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Congfeng Cao
-- 🔗 Find me here: byfrfy.tech
+- 🔗 Find me here: [byfrfy.tech](https://byfrfy.tech)
 - 👀 I’m interested in ML DL LLM
 - 🌱 I’m currently learning LLMs
 - 💞️ I’m looking to collaborate on LLMs, graph related work
